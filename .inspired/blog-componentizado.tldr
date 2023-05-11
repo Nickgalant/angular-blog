@@ -129,17 +129,17 @@
     },
     {
       "lastUsedInstanceId": "instance:qqBBbfNMnay2xhDuwnfMr",
-      "lastActivityTimestamp": 1683762538811,
+      "lastActivityTimestamp": 1683765772425,
       "cursor": {
-        "x": 815.5559135488927,
-        "y": 274.4994033974325,
+        "x": 790.4035537441351,
+        "y": 283.0847454357434,
         "z": 0
       },
       "viewportPageBounds": {
-        "x": 324.3491157602534,
-        "y": -68.13249876377884,
-        "w": 1027.8957064836343,
-        "h": 805.0333630424923
+        "x": 272.9110030910224,
+        "y": -98.00351876804336,
+        "w": 1282.4815385751053,
+        "h": 1034.9851013062255
       },
       "color": "#55B467",
       "id": "user_presence:atW_-bW_EAFcTXSvKNKY6",
@@ -273,8 +273,8 @@
       "screenBounds": {
         "x": 0,
         "y": 0,
-        "w": 678,
-        "h": 531
+        "w": 912,
+        "h": 736
       },
       "id": "instance:qqBBbfNMnay2xhDuwnfMr",
       "userId": "user:bV1A8k-_wphxZed2D-tol",
@@ -282,9 +282,9 @@
       "typeName": "instance"
     },
     {
-      "x": -324.3491157602534,
-      "y": 68.13249876377884,
-      "z": 0.659599992220412,
+      "x": -272.9110030910224,
+      "y": 98.00351876804336,
+      "z": 0.7111213476127485,
       "id": "camera:vezNbb_aR4prRyoE9VD7i",
       "typeName": "camera"
     },
@@ -294,7 +294,7 @@
       "selectedIds": [
         "shape:5ybIO7sjijUiazpDkj4Vs"
       ],
-      "hoveredId": "shape:Io94M3hMkXZ3XhnurRxty",
+      "hoveredId": null,
       "erasingIds": [],
       "hintingIds": [],
       "focusLayerId": null,
